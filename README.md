@@ -58,7 +58,8 @@ Electrical Engineering Student • Electronics • Québec, Canada
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-     alt="GitHub" width="40" height="40" />  
+     alt="GitHub" width="40" height="40" />
+</a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"
      alt="LaTeX" width="40" height="40" />
 </p>
