@@ -45,9 +45,6 @@ Electrical Engineering Student • Electronics • Québec, Canada
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
      alt="MATLAB" width="40" height="40" />
 </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-     alt="Python" width="40" height="40" />
-</a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
      alt="C++" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"
@@ -57,16 +54,11 @@ Electrical Engineering Student • Electronics • Québec, Canada
 
 <img src="https://cdn.sanity.io/images/0hdzqj39/production/3c6747b52143a9a0725c0901be3a9101f5d42cbb-288x288.png"
      alt="Altium Designer" width="40" height="40" />
-</a>
-<img src="https://www.vectorlogo.zone/logos/kicad_pcb/kicad_pcb-icon.svg"
-     alt="KiCad" width="40" height="40" />
-</a>
 
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-     alt="GitHub" width="40" height="40" />
-</a>     
+     alt="GitHub" width="40" height="40" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"
      alt="LaTeX" width="40" height="40" />
 </p>
