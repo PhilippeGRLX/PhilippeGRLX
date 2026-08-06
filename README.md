@@ -5,7 +5,11 @@ Electrical Engineering Student • Electronics • Québec, Canada
 </h3>
 
 <p align="center">
-  I build electronics projects from theory and simulation to hardware implementation, experimental validation, and open documentation.
+  I build electronics projects and share the complete engineering process—from theory and simulation to hardware implementation, experimental validation, and open documentation.
+</p>
+
+<p align="center">
+  Electronics hobbyist, science enthusiast, curious mind, and lifelong tinkerer.
 </p>
 
 ---
