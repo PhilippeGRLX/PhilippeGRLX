@@ -9,7 +9,7 @@ Electrical Engineering Student • Electronics • Québec, Canada
 </p>
 
 <p align="center">
-  Electronics hobbyist, science enthusiast, curious mind, and lifelong tinkerer.
+  Electronics hobbyist, science enthusiast, curious mind, and hands-on builder.
 </p>
 
 ---
