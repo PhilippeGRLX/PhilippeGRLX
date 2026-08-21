@@ -48,9 +48,6 @@ Electrical Engineering Student • Electronics • Québec, Canada
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
      alt="MATLAB" width="40" height="40" />
-</a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-     alt="C++" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"
      alt="Arduino" width="40" height="40" />
 </a>
